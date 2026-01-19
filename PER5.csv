@@ -1,0 +1,4 @@
+"Product Category","sum(`Total Amount`)"
+Beauty,6640
+Clothing,6585
+Electronics,11340

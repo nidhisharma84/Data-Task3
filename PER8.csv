@@ -1,0 +1,8 @@
+"ï»¿Transaction ID",Date,"Customer ID",Gender,Age,"Product Category",Quantity,"Price per Unit","Total Amount"
+13,08-05-23,CUST013,Male,22,Electronics,3,500,1500
+15,01-16-23,CUST015,Female,42,Electronics,4,500,2000
+16,02-17-23,CUST016,Male,19,Clothing,3,500,1500
+31,05-23-23,CUST031,Male,44,Electronics,4,300,1200
+46,06-26-23,CUST046,Female,20,Electronics,4,300,1200
+47,11-06-23,CUST047,Female,40,Beauty,3,500,1500
+54,02-10-23,CUST054,Female,38,Electronics,3,500,1500
