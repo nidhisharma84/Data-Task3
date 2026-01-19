@@ -1,0 +1,1 @@
+select `Product Category` from custom.task3;

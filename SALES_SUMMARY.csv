@@ -1,0 +1,13 @@
+"ï»¿Transaction ID",Date,"Customer ID",Gender,Age,"Product Category",Quantity,"Price per Unit","Total Amount"
+8,02-22-23,CUST008,Male,30,Electronics,4,25,100
+9,12-13-23,CUST009,Male,63,Electronics,2,300,600
+13,08-05-23,CUST013,Male,22,Electronics,3,500,1500
+15,01-16-23,CUST015,Female,42,Electronics,4,500,2000
+26,10-07-23,CUST026,Female,28,Electronics,2,500,1000
+31,05-23-23,CUST031,Male,44,Electronics,4,300,1200
+33,03-23-23,CUST033,Female,50,Electronics,2,50,100
+46,06-26-23,CUST046,Female,20,Electronics,4,300,1200
+48,05-16-23,CUST048,Male,54,Electronics,3,300,900
+49,01-23-23,CUST049,Female,54,Electronics,2,500,1000
+53,07-13-23,CUST053,Male,34,Electronics,2,50,100
+54,02-10-23,CUST054,Female,38,Electronics,3,500,1500
